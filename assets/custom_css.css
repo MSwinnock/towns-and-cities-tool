@@ -1,0 +1,82 @@
+:root {
+    --ons-nightblue: #003c57;
+    --ons-oceanblue: #206095;
+    --ons-springgreen: #a8bd3a;
+    --ons-aqua: #00a3a6;
+    --ons-skyblue: #27a0cc;
+    --ons-gray: #A5A5A5;
+    --ons-white: #ffffff;
+    --ons-grey15: #e2e2e3;
+}
+
+html * {
+    color: black;
+    font-family: Arial;
+}
+
+.banner {
+    height: 75px;
+    margin: 0px -10px 10px;
+    background-color: var(--ons-nightblue);
+    border-radius: 2px;
+}
+
+.banner h2{
+    color: black;
+    padding-top: 15px;
+    margin-left: 2%;
+    display: inline-block;
+    text-align: center;
+}
+
+.banner Img{
+    position: relative;
+    float: right;
+    right: 10px;
+    height: 75px;
+}
+
+.filter_div H2{
+    padding: 20px;
+    text-align: center;
+}
+
+.map_div H2{
+    padding: 20px;
+    text-align: center;
+}
+
+.box1{
+    border: 2px solid black;
+}
+
+.box1 H1{
+    color: red;
+    /* border: 0.5px solid black; */
+}
+
+.box1 H2{
+    color: purple;
+    font-family: 'Times New Roman", Times, serif';
+}
+
+.title {
+    margin: 0;
+    position: absolute;
+    color: var(--ons-white);
+}
+
+/* h1{
+    color: black;
+    padding-top: 10px;
+    margin-left: 2%;
+    display: inline-block;
+}
+
+Img{
+    position: relative;
+    float: right;
+    right: 10px;
+    height: 75px;
+} */
+

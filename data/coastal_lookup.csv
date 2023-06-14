@@ -1,0 +1,310 @@
+Local Authority Code,Local Authority Name,ITL1 Region,Rural / Urban,Median age,Population Density,IMD Quintile,Coastal towns
+E06000001,Hartlepool,North East,Predominantly Urban,41-44,441-1073,1,Y
+E06000002,Middlesbrough,North East,Predominantly Urban,40 and less,1074-2776,1,N
+E06000003,Redcar and Cleveland,North East,Urban with Significant Rural,45+,441-1073,1,Y
+E06000004,Stockton-on-Tees,North East,Predominantly Urban,41-44,441-1073,2,N
+E06000005,Darlington,North East,Predominantly Urban,41-44,441-1073,2,N
+E06000006,Halton,North West,Predominantly Urban,41-44,1074-2776,1,N
+E06000007,Warrington,North West,Predominantly Urban,41-44,1074-2776,3,N
+E06000008,Blackburn with Darwen,North West,Predominantly Urban,40 and less,1074-2776,1,N
+E06000009,Blackpool,North West,Predominantly Urban,41-44,2777 +,1,Y
+E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,Predominantly Urban,40 and less,2777 +,1,Y
+E06000011,East Riding of Yorkshire,Yorkshire and The Humber,Predominantly Rural,45+,Less than 185,4,Y
+E06000012,North East Lincolnshire,Yorkshire and The Humber,Predominantly Urban,41-44,441-1073,1,Y
+E06000013,North Lincolnshire,Yorkshire and The Humber,Urban with Significant Rural,41-44,185-440,2,Y
+E06000014,York,Yorkshire and The Humber,Predominantly Urban,40 and less,441-1073,5,N
+E06000015,Derby,East Midlands,Predominantly Urban,40 and less,2777 +,2,N
+E06000016,Leicester,East Midlands,Predominantly Urban,40 and less,2777 +,1,N
+E06000017,Rutland,East Midlands,Predominantly Rural,45+,Less than 185,5,N
+E06000018,Nottingham,East Midlands,Predominantly Urban,40 and less,2777 +,1,N
+E06000019,"Herefordshire, County of",West Midlands,Predominantly Rural,45+,Less than 185,3,N
+E06000020,Telford and Wrekin,West Midlands,Predominantly Urban,40 and less,441-1073,2,N
+E06000021,Stoke-on-Trent,West Midlands,Predominantly Urban,40 and less,1074-2776,1,N
+E06000022,Bath and North East Somerset,South West,Urban with Significant Rural,40 and less,441-1073,5,N
+E06000023,"Bristol, City of",South West,Predominantly Urban,40 and less,2777 +,2,N
+E06000024,North Somerset,South West,Urban with Significant Rural,45+,441-1073,4,Y
+E06000025,South Gloucestershire,South West,Predominantly Urban,40 and less,441-1073,5,N
+E06000026,Plymouth,South West,Predominantly Urban,40 and less,2777 +,2,Y
+E06000027,Torbay,South West,Predominantly Urban,45+,1074-2776,1,Y
+E06000030,Swindon,South West,Predominantly Urban,40 and less,441-1073,3,N
+E06000031,Peterborough,East of England,Predominantly Urban,40 and less,441-1073,1,N
+E06000032,Luton,East of England,Predominantly Urban,40 and less,2777 +,2,N
+E06000033,Southend-on-Sea,East of England,Predominantly Urban,41-44,2777 +,2,Y
+E06000034,Thurrock,East of England,Predominantly Urban,40 and less,1074-2776,3,N
+E06000035,Medway,South East,Predominantly Urban,40 and less,1074-2776,2,N
+E06000036,Bracknell Forest,South East,Predominantly Urban,40 and less,1074-2776,5,N
+E06000037,West Berkshire,South East,Urban with Significant Rural,41-44,185-440,5,N
+E06000038,Reading,South East,Predominantly Urban,40 and less,2777 +,3,N
+E06000039,Slough,South East,Predominantly Urban,40 and less,2777 +,2,N
+E06000040,Windsor and Maidenhead,South East,Predominantly Urban,41-44,441-1073,5,N
+E06000041,Wokingham,South East,Predominantly Urban,41-44,441-1073,5,N
+E06000042,Milton Keynes,South East,Predominantly Urban,40 and less,441-1073,3,N
+E06000043,Brighton and Hove,South East,Predominantly Urban,40 and less,2777 +,3,Y
+E06000044,Portsmouth,South East,Predominantly Urban,40 and less,2777 +,1,N
+E06000045,Southampton,South East,Predominantly Urban,40 and less,2777 +,1,N
+E06000046,Isle of Wight,South East,Predominantly Rural,45+,185-440,2,Y
+E06000047,County Durham,North East,Predominantly Rural,41-44,185-440,1,Y
+E06000049,Cheshire East,North West,Urban with Significant Rural,45+,185-440,4,N
+E06000050,Cheshire West and Chester,North West,Urban with Significant Rural,41-44,185-440,3,N
+E06000051,Shropshire,West Midlands,Predominantly Rural,45+,Less than 185,3,N
+E06000052,Cornwall,South West,Predominantly Rural,45+,Less than 185,2,Y
+E06000053,Isles of Scilly,South West,Predominantly Rural,45+,Less than 185,5,[x]
+E06000054,Wiltshire,South West,Predominantly Rural,41-44,Less than 185,4,N
+E06000055,Bedford,East of England,Urban with Significant Rural,40 and less,185-440,3,N
+E06000056,Central Bedfordshire,East of England,Predominantly Rural,41-44,185-440,4,N
+E06000057,Northumberland,North East,Predominantly Rural,45+,Less than 185,2,Y
+E06000058,"Bournemouth, Christchurch and Poole",South West,Predominantly Urban,41-44,1074-2776,3,Y
+E06000059,Dorset,South West,Predominantly Rural,45+,Less than 185,4,Y
+E06000060,Buckinghamshire,South East,Urban with Significant Rural,41-44,185-440,[x],[x]
+E06000061,North Northamptonshire,East Midlands,Urban with Significant Rural,40 and less,185-440,[x],[x]
+E06000062,West Northamptonshire,East Midlands,Urban with Significant Rural,40 and less,185-440,[x],[x]
+E07000008,Cambridge,East of England,Predominantly Urban,40 and less,2777 +,4,N
+E07000009,East Cambridgeshire,East of England,Predominantly Rural,41-44,Less than 185,5,N
+E07000010,Fenland,East of England,Predominantly Rural,41-44,185-440,2,N
+E07000011,Huntingdonshire,East of England,Predominantly Rural,41-44,185-440,4,N
+E07000012,South Cambridgeshire,East of England,Predominantly Rural,41-44,Less than 185,5,N
+E07000026,Allerdale,North West,Predominantly Rural,45+,Less than 185,2,Y
+E07000027,Barrow-in-Furness,North West,Urban with Significant Rural,41-44,441-1073,1,Y
+E07000028,Carlisle,North West,Urban with Significant Rural,41-44,Less than 185,2,N
+E07000029,Copeland,North West,Predominantly Rural,45+,Less than 185,2,Y
+E07000030,Eden,North West,Predominantly Rural,45+,Less than 185,3,N
+E07000031,South Lakeland,North West,Predominantly Rural,45+,Less than 185,4,N
+E07000032,Amber Valley,East Midlands,Predominantly Urban,45+,441-1073,3,N
+E07000033,Bolsover,East Midlands,Urban with Significant Rural,41-44,441-1073,2,N
+E07000034,Chesterfield,East Midlands,Predominantly Urban,41-44,1074-2776,2,N
+E07000035,Derbyshire Dales,East Midlands,Predominantly Rural,45+,Less than 185,5,N
+E07000036,Erewash,East Midlands,Predominantly Urban,41-44,441-1073,3,N
+E07000037,High Peak,East Midlands,Predominantly Rural,45+,Less than 185,4,N
+E07000038,North East Derbyshire,East Midlands,Predominantly Urban,45+,185-440,3,N
+E07000039,South Derbyshire,East Midlands,Urban with Significant Rural,41-44,185-440,4,N
+E07000040,East Devon,South West,Predominantly Rural,45+,185-440,4,Y
+E07000041,Exeter,South West,Predominantly Urban,40 and less,2777 +,3,N
+E07000042,Mid Devon,South West,Predominantly Rural,45+,Less than 185,3,N
+E07000043,North Devon,South West,Predominantly Rural,45+,Less than 185,3,Y
+E07000044,South Hams,South West,Predominantly Rural,45+,Less than 185,4,Y
+E07000045,Teignbridge,South West,Predominantly Rural,45+,185-440,4,Y
+E07000046,Torridge,South West,Predominantly Rural,45+,Less than 185,2,Y
+E07000047,West Devon,South West,Predominantly Rural,45+,Less than 185,3,N
+E07000061,Eastbourne,South East,Predominantly Urban,45+,1074-2776,2,Y
+E07000062,Hastings,South East,Predominantly Urban,41-44,2777 +,1,Y
+E07000063,Lewes,South East,Urban with Significant Rural,45+,185-440,4,Y
+E07000064,Rother,South East,Predominantly Rural,45+,Less than 185,3,Y
+E07000065,Wealden,South East,Predominantly Rural,45+,185-440,4,Y
+E07000066,Basildon,East of England,Predominantly Urban,40 and less,1074-2776,2,N
+E07000067,Braintree,East of England,Predominantly Rural,41-44,185-440,4,N
+E07000068,Brentwood,East of England,Urban with Significant Rural,41-44,441-1073,5,N
+E07000069,Castle Point,East of England,Predominantly Urban,45+,1074-2776,3,Y
+E07000070,Chelmsford,East of England,Predominantly Urban,41-44,441-1073,4,N
+E07000071,Colchester,East of England,Urban with Significant Rural,40 and less,441-1073,3,Y
+E07000072,Epping Forest,East of England,Urban with Significant Rural,41-44,185-440,4,N
+E07000073,Harlow,East of England,Predominantly Urban,40 and less,2777 +,2,N
+E07000074,Maldon,East of England,Predominantly Rural,45+,185-440,4,N
+E07000075,Rochford,East of England,Predominantly Urban,45+,441-1073,5,Y
+E07000076,Tendring,East of England,Predominantly Rural,45+,441-1073,1,Y
+E07000077,Uttlesford,East of England,Predominantly Rural,41-44,Less than 185,5,N
+E07000078,Cheltenham,South West,Predominantly Urban,40 and less,1074-2776,4,N
+E07000079,Cotswold,South West,Predominantly Rural,45+,Less than 185,5,N
+E07000080,Forest of Dean,South West,Predominantly Rural,45+,Less than 185,3,N
+E07000081,Gloucester,South West,Predominantly Urban,40 and less,2777 +,2,N
+E07000082,Stroud,South West,Urban with Significant Rural,45+,185-440,5,N
+E07000083,Tewkesbury,South West,Predominantly Rural,41-44,185-440,5,N
+E07000084,Basingstoke and Deane,South East,Urban with Significant Rural,40 and less,185-440,4,N
+E07000085,East Hampshire,South East,Predominantly Rural,45+,185-440,5,N
+E07000086,Eastleigh,South East,Predominantly Urban,41-44,1074-2776,5,Y
+E07000087,Fareham,South East,Predominantly Urban,45+,1074-2776,5,Y
+E07000088,Gosport,South East,Predominantly Urban,41-44,2777 +,3,Y
+E07000089,Hart,South East,Urban with Significant Rural,41-44,441-1073,5,N
+E07000090,Havant,South East,Predominantly Urban,45+,1074-2776,2,Y
+E07000091,New Forest,South East,Urban with Significant Rural,45+,185-440,4,Y
+E07000092,Rushmoor,South East,Predominantly Urban,40 and less,1074-2776,4,N
+E07000093,Test Valley,South East,Urban with Significant Rural,41-44,185-440,5,N
+E07000094,Winchester,South East,Predominantly Rural,41-44,185-440,5,N
+E07000095,Broxbourne,East of England,Predominantly Urban,40 and less,1074-2776,3,N
+E07000096,Dacorum,East of England,Urban with Significant Rural,40 and less,441-1073,4,N
+E07000098,Hertsmere,East of England,Predominantly Urban,40 and less,441-1073,4,N
+E07000099,North Hertfordshire,East of England,Urban with Significant Rural,41-44,185-440,5,N
+E07000102,Three Rivers,East of England,Predominantly Urban,41-44,441-1073,5,N
+E07000103,Watford,East of England,Predominantly Urban,40 and less,2777 +,4,N
+E07000105,Ashford,South East,Urban with Significant Rural,41-44,185-440,3,N
+E07000106,Canterbury,South East,Predominantly Urban,41-44,441-1073,3,Y
+E07000107,Dartford,South East,Predominantly Urban,40 and less,1074-2776,3,N
+E07000108,Dover,South East,Urban with Significant Rural,45+,185-440,2,Y
+E07000109,Gravesham,South East,Predominantly Urban,40 and less,1074-2776,2,N
+E07000110,Maidstone,South East,Urban with Significant Rural,41-44,441-1073,3,N
+E07000111,Sevenoaks,South East,Predominantly Rural,41-44,185-440,4,N
+E07000112,Folkestone and Hythe,South East,Urban with Significant Rural,45+,185-440,2,Y
+E07000113,Swale,South East,Predominantly Rural,41-44,185-440,1,Y
+E07000114,Thanet,South East,Predominantly Urban,45+,1074-2776,1,Y
+E07000115,Tonbridge and Malling,South East,Urban with Significant Rural,41-44,441-1073,4,N
+E07000116,Tunbridge Wells,South East,Urban with Significant Rural,41-44,185-440,5,N
+E07000117,Burnley,North West,Predominantly Urban,40 and less,441-1073,1,N
+E07000118,Chorley,North West,Urban with Significant Rural,41-44,441-1073,3,N
+E07000119,Fylde,North West,Predominantly Urban,45+,441-1073,4,Y
+E07000120,Hyndburn,North West,Predominantly Urban,40 and less,1074-2776,1,N
+E07000121,Lancaster,North West,Urban with Significant Rural,40 and less,185-440,2,Y
+E07000122,Pendle,North West,Predominantly Urban,40 and less,441-1073,1,N
+E07000123,Preston,North West,Predominantly Urban,40 and less,441-1073,1,N
+E07000124,Ribble Valley,North West,Predominantly Rural,45+,Less than 185,5,N
+E07000125,Rossendale,North West,Predominantly Urban,41-44,441-1073,2,N
+E07000126,South Ribble,North West,Predominantly Urban,41-44,441-1073,4,N
+E07000127,West Lancashire,North West,Urban with Significant Rural,41-44,185-440,3,Y
+E07000128,Wyre,North West,Predominantly Rural,45+,185-440,3,Y
+E07000129,Blaby,East Midlands,Predominantly Urban,41-44,441-1073,5,N
+E07000130,Charnwood,East Midlands,Predominantly Urban,40 and less,441-1073,4,N
+E07000131,Harborough,East Midlands,Predominantly Rural,45+,Less than 185,5,N
+E07000132,Hinckley and Bosworth,East Midlands,Predominantly Rural,45+,185-440,4,N
+E07000133,Melton,East Midlands,Predominantly Rural,45+,Less than 185,4,N
+E07000134,North West Leicestershire,East Midlands,Predominantly Rural,41-44,185-440,4,N
+E07000135,Oadby and Wigston,East Midlands,Predominantly Urban,41-44,1074-2776,4,N
+E07000136,Boston,East Midlands,Urban with Significant Rural,41-44,185-440,2,N
+E07000137,East Lindsey,East Midlands,Predominantly Rural,45+,Less than 185,1,Y
+E07000138,Lincoln,East Midlands,Predominantly Urban,40 and less,2777 +,1,N
+E07000139,North Kesteven,East Midlands,Predominantly Rural,45+,Less than 185,5,N
+E07000140,South Holland,East Midlands,Predominantly Rural,45+,Less than 185,3,N
+E07000141,South Kesteven,East Midlands,Predominantly Rural,45+,Less than 185,4,N
+E07000142,West Lindsey,East Midlands,Predominantly Rural,45+,Less than 185,3,N
+E07000143,Breckland,East of England,Predominantly Rural,45+,Less than 185,3,N
+E07000144,Broadland,East of England,Urban with Significant Rural,45+,185-440,5,N
+E07000145,Great Yarmouth,East of England,Urban with Significant Rural,45+,441-1073,1,Y
+E07000146,King's Lynn and West Norfolk,East of England,Predominantly Rural,45+,Less than 185,2,Y
+E07000147,North Norfolk,East of England,Predominantly Rural,45+,Less than 185,2,Y
+E07000148,Norwich,East of England,Predominantly Urban,40 and less,2777 +,1,N
+E07000149,South Norfolk,East of England,Predominantly Rural,45+,Less than 185,4,N
+E07000163,Craven,Yorkshire and The Humber,Predominantly Rural,45+,Less than 185,4,N
+E07000164,Hambleton,Yorkshire and The Humber,Predominantly Rural,45+,Less than 185,5,N
+E07000165,Harrogate,Yorkshire and The Humber,Urban with Significant Rural,45+,Less than 185,5,N
+E07000166,Richmondshire,Yorkshire and The Humber,Predominantly Rural,45+,Less than 185,5,N
+E07000167,Ryedale,Yorkshire and The Humber,Predominantly Rural,45+,Less than 185,4,N
+E07000168,Scarborough,Yorkshire and The Humber,Urban with Significant Rural,45+,Less than 185,2,Y
+E07000169,Selby,Yorkshire and The Humber,Predominantly Rural,41-44,Less than 185,4,N
+E07000170,Ashfield,East Midlands,Predominantly Urban,41-44,1074-2776,2,N
+E07000171,Bassetlaw,East Midlands,Predominantly Rural,45+,Less than 185,2,N
+E07000172,Broxtowe,East Midlands,Predominantly Urban,41-44,1074-2776,4,N
+E07000173,Gedling,East Midlands,Predominantly Urban,41-44,441-1073,4,N
+E07000174,Mansfield,East Midlands,Predominantly Urban,41-44,1074-2776,1,N
+E07000175,Newark and Sherwood,East Midlands,Predominantly Rural,45+,185-440,3,N
+E07000176,Rushcliffe,East Midlands,Predominantly Rural,41-44,185-440,5,N
+E07000177,Cherwell,South East,Urban with Significant Rural,40 and less,185-440,4,N
+E07000178,Oxford,South East,Predominantly Urban,40 and less,2777 +,3,N
+E07000179,South Oxfordshire,South East,Predominantly Rural,41-44,185-440,5,N
+E07000180,Vale of White Horse,South East,Predominantly Rural,41-44,185-440,5,N
+E07000181,West Oxfordshire,South East,Predominantly Rural,41-44,Less than 185,5,N
+E07000187,Mendip,South West,Predominantly Rural,45+,Less than 185,3,N
+E07000188,Sedgemoor,South West,Predominantly Rural,45+,185-440,2,Y
+E07000189,South Somerset,South West,Predominantly Rural,45+,Less than 185,3,N
+E07000192,Cannock Chase,West Midlands,Urban with Significant Rural,41-44,1074-2776,3,N
+E07000193,East Staffordshire,West Midlands,Urban with Significant Rural,41-44,185-440,3,N
+E07000194,Lichfield,West Midlands,Urban with Significant Rural,45+,185-440,4,N
+E07000195,Newcastle-under-Lyme,West Midlands,Predominantly Urban,41-44,441-1073,3,N
+E07000196,South Staffordshire,West Midlands,Urban with Significant Rural,45+,185-440,4,N
+E07000197,Stafford,West Midlands,Urban with Significant Rural,45+,185-440,4,N
+E07000198,Staffordshire Moorlands,West Midlands,Predominantly Rural,45+,Less than 185,4,N
+E07000199,Tamworth,West Midlands,Predominantly Urban,40 and less,1074-2776,2,N
+E07000200,Babergh,East of England,Predominantly Rural,45+,Less than 185,4,N
+E07000202,Ipswich,East of England,Predominantly Urban,40 and less,2777 +,2,N
+E07000203,Mid Suffolk,East of England,Predominantly Rural,45+,Less than 185,4,N
+E07000207,Elmbridge,South East,Predominantly Urban,41-44,1074-2776,5,N
+E07000208,Epsom and Ewell,South East,Predominantly Urban,41-44,1074-2776,5,N
+E07000209,Guildford,South East,Predominantly Urban,40 and less,441-1073,5,N
+E07000210,Mole Valley,South East,Urban with Significant Rural,45+,185-440,5,N
+E07000211,Reigate and Banstead,South East,Predominantly Urban,41-44,1074-2776,5,N
+E07000212,Runnymede,South East,Predominantly Urban,40 and less,1074-2776,5,N
+E07000213,Spelthorne,South East,Predominantly Urban,41-44,1074-2776,4,N
+E07000214,Surrey Heath,South East,Predominantly Urban,41-44,441-1073,5,N
+E07000215,Tandridge,South East,Urban with Significant Rural,41-44,185-440,5,N
+E07000216,Waverley,South East,Predominantly Rural,41-44,185-440,5,N
+E07000217,Woking,South East,Predominantly Urban,40 and less,1074-2776,5,N
+E07000218,North Warwickshire,West Midlands,Predominantly Rural,45+,185-440,3,N
+E07000219,Nuneaton and Bedworth,West Midlands,Predominantly Urban,40 and less,1074-2776,2,N
+E07000220,Rugby,West Midlands,Predominantly Urban,40 and less,185-440,4,N
+E07000221,Stratford-on-Avon,West Midlands,Predominantly Rural,45+,Less than 185,5,N
+E07000222,Warwick,West Midlands,Predominantly Urban,40 and less,441-1073,5,N
+E07000223,Adur,South East,Predominantly Urban,45+,1074-2776,3,Y
+E07000224,Arun,South East,Predominantly Urban,45+,441-1073,3,Y
+E07000225,Chichester,South East,Predominantly Rural,45+,Less than 185,4,Y
+E07000226,Crawley,South East,Predominantly Urban,40 and less,1074-2776,3,N
+E07000227,Horsham,South East,Predominantly Rural,45+,185-440,5,N
+E07000228,Mid Sussex,South East,Predominantly Urban,41-44,441-1073,5,N
+E07000229,Worthing,South East,Predominantly Urban,41-44,2777 +,3,Y
+E07000234,Bromsgrove,West Midlands,Predominantly Urban,45+,441-1073,5,N
+E07000235,Malvern Hills,West Midlands,Predominantly Rural,45+,Less than 185,4,N
+E07000236,Redditch,West Midlands,Predominantly Urban,40 and less,1074-2776,2,N
+E07000237,Worcester,West Midlands,Predominantly Urban,40 and less,2777 +,3,N
+E07000238,Wychavon,West Midlands,Predominantly Rural,45+,185-440,4,N
+E07000239,Wyre Forest,West Midlands,Urban with Significant Rural,45+,441-1073,2,N
+E07000240,St Albans,East of England,Predominantly Urban,41-44,441-1073,5,N
+E07000241,Welwyn Hatfield,East of England,Predominantly Urban,40 and less,441-1073,4,N
+E07000242,East Hertfordshire,East of England,Urban with Significant Rural,41-44,185-440,5,N
+E07000243,Stevenage,East of England,Predominantly Urban,40 and less,2777 +,3,N
+E07000244,East Suffolk,East of England,Predominantly Rural,45+,185-440,3,Y
+E07000245,West Suffolk,East of England,Predominantly Rural,41-44,Less than 185,3,N
+E07000246,Somerset West and Taunton,South West,Predominantly Rural,45+,Less than 185,3,Y
+E08000001,Bolton,North West,Predominantly Urban,40 and less,1074-2776,1,N
+E08000002,Bury,North West,Predominantly Urban,40 and less,1074-2776,2,N
+E08000003,Manchester,North West,Predominantly Urban,40 and less,2777 +,1,N
+E08000004,Oldham,North West,Predominantly Urban,40 and less,1074-2776,1,N
+E08000005,Rochdale,North West,Predominantly Urban,40 and less,1074-2776,1,N
+E08000006,Salford,North West,Predominantly Urban,40 and less,2777 +,1,N
+E08000007,Stockport,North West,Predominantly Urban,41-44,1074-2776,3,N
+E08000008,Tameside,North West,Predominantly Urban,40 and less,1074-2776,1,N
+E08000009,Trafford,North West,Predominantly Urban,40 and less,1074-2776,4,N
+E08000010,Wigan,North West,Predominantly Urban,41-44,1074-2776,2,N
+E08000011,Knowsley,North West,Predominantly Urban,40 and less,1074-2776,1,N
+E08000012,Liverpool,North West,Predominantly Urban,40 and less,2777 +,1,Y
+E08000013,St. Helens,North West,Predominantly Urban,41-44,1074-2776,1,N
+E08000014,Sefton,North West,Predominantly Urban,45+,1074-2776,1,Y
+E08000015,Wirral,North West,Predominantly Urban,41-44,1074-2776,1,Y
+E08000016,Barnsley,Yorkshire and The Humber,Predominantly Urban,41-44,441-1073,1,N
+E08000017,Doncaster,Yorkshire and The Humber,Predominantly Urban,41-44,441-1073,1,N
+E08000018,Rotherham,Yorkshire and The Humber,Predominantly Urban,41-44,441-1073,1,N
+E08000019,Sheffield,Yorkshire and The Humber,Predominantly Urban,40 and less,1074-2776,1,N
+E08000021,Newcastle upon Tyne,North East,Predominantly Urban,40 and less,1074-2776,1,N
+E08000022,North Tyneside,North East,Predominantly Urban,41-44,1074-2776,2,Y
+E08000023,South Tyneside,North East,Predominantly Urban,41-44,1074-2776,1,Y
+E08000024,Sunderland,North East,Predominantly Urban,41-44,1074-2776,1,Y
+E08000025,Birmingham,West Midlands,Predominantly Urban,40 and less,2777 +,1,N
+E08000026,Coventry,West Midlands,Predominantly Urban,40 and less,2777 +,2,N
+E08000027,Dudley,West Midlands,Predominantly Urban,41-44,2777 +,2,N
+E08000028,Sandwell,West Midlands,Predominantly Urban,40 and less,2777 +,1,N
+E08000029,Solihull,West Midlands,Predominantly Urban,41-44,1074-2776,3,N
+E08000030,Walsall,West Midlands,Predominantly Urban,40 and less,1074-2776,1,N
+E08000031,Wolverhampton,West Midlands,Predominantly Urban,40 and less,2777 +,1,N
+E08000032,Bradford,Yorkshire and The Humber,Predominantly Urban,40 and less,1074-2776,1,N
+E08000033,Calderdale,Yorkshire and The Humber,Predominantly Urban,41-44,441-1073,2,N
+E08000034,Kirklees,Yorkshire and The Humber,Predominantly Urban,40 and less,441-1073,2,N
+E08000035,Leeds,Yorkshire and The Humber,Predominantly Urban,40 and less,1074-2776,1,N
+E08000036,Wakefield,Yorkshire and The Humber,Predominantly Urban,41-44,441-1073,1,N
+E08000037,Gateshead,North East,Predominantly Urban,41-44,1074-2776,1,N
+E09000001,City of London,London,Predominantly Urban,40 and less,2777 +,4,N
+E09000002,Barking and Dagenham,London,Predominantly Urban,40 and less,2777 +,1,N
+E09000003,Barnet,London,Predominantly Urban,40 and less,2777 +,3,N
+E09000004,Bexley,London,Predominantly Urban,40 and less,2777 +,3,N
+E09000005,Brent,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000006,Bromley,London,Predominantly Urban,41-44,1074-2776,4,N
+E09000007,Camden,London,Predominantly Urban,40 and less,2777 +,3,N
+E09000008,Croydon,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000009,Ealing,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000010,Enfield,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000011,Greenwich,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000012,Hackney,London,Predominantly Urban,40 and less,2777 +,1,N
+E09000013,Hammersmith and Fulham,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000014,Haringey,London,Predominantly Urban,40 and less,2777 +,1,N
+E09000015,Harrow,London,Predominantly Urban,40 and less,2777 +,4,N
+E09000016,Havering,London,Predominantly Urban,40 and less,1074-2776,3,N
+E09000017,Hillingdon,London,Predominantly Urban,40 and less,1074-2776,3,N
+E09000018,Hounslow,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000019,Islington,London,Predominantly Urban,40 and less,2777 +,1,N
+E09000020,Kensington and Chelsea,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000021,Kingston upon Thames,London,Predominantly Urban,40 and less,2777 +,5,N
+E09000022,Lambeth,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000023,Lewisham,London,Predominantly Urban,40 and less,2777 +,1,N
+E09000024,Merton,London,Predominantly Urban,40 and less,2777 +,4,N
+E09000025,Newham,London,Predominantly Urban,40 and less,2777 +,1,N
+E09000026,Redbridge,London,Predominantly Urban,40 and less,2777 +,3,N
+E09000027,Richmond upon Thames,London,Predominantly Urban,41-44,2777 +,5,N
+E09000028,Southwark,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000029,Sutton,London,Predominantly Urban,40 and less,2777 +,4,N
+E09000030,Tower Hamlets,London,Predominantly Urban,40 and less,2777 +,1,N
+E09000031,Waltham Forest,London,Predominantly Urban,40 and less,2777 +,2,N
+E09000032,Wandsworth,London,Predominantly Urban,40 and less,2777 +,3,N
+E09000033,Westminster,London,Predominantly Urban,40 and less,2777 +,3,N
