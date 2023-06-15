@@ -1,20 +1,16 @@
 from typing import Sequence
 
 import pandas as pd
-import numpy as np
 import geopandas
 
 import yaml
 from yaml.loader import SafeLoader
 
 import plotly_express as px
-import plotly.graph_objects as go
 
 from dash import Dash, Input, Output
 from dash import dcc
 from dash import html
-from pynput.mouse import Controller
-import dash_bootstrap_components as dbc
 
 
 def load_travel_to_work_datasets(
