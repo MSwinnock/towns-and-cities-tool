@@ -222,6 +222,7 @@ def load_metadata(
 
 
 app = Dash(__name__)
+server = app.server
 
 
 # Load travel to work datasets
@@ -532,4 +533,4 @@ def show_tooltip(click_data, time_period, selected_areas, selected_metric, selec
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
