@@ -6,7 +6,6 @@ import geopandas
 import yaml
 from yaml.loader import SafeLoader
 
-import os
 import plotly_express as px
 
 from dash import Dash, Input, Output
@@ -221,7 +220,6 @@ def load_metadata(
 app = Dash(__name__)
 server = app.server
 
-os.listdir("usr/src/app/")
 # Load travel to work datasets
 # project_path = "C:/Users/tobyh/Desktop/testing plotly/Dashboard_April_Demo"
 # metric_folder = "C:/Users/tobyh/Desktop/testing plotly/Dashboard_April_Demo/data"
