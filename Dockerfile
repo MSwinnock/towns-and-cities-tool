@@ -21,4 +21,4 @@ RUN useradd -m appUser
 USER appUser
 
 # Run locally on port 8050
-CMD gunicorn --bind 0.0.0.0:8050 app:server
+CMD gunicorn --bind 0.0.0.0:8050 --timeout 0 app:server
