@@ -13,8 +13,8 @@ RUN pip install -r /requirements.txt
 
 # Copy app folder to app folder in container
 COPY app.py /usr/src/app/
-COPY /assets /usr/src/app/
-COPY /data /usr/src/app/
+COPY /assets /usr/src/app/assets/
+COPY /data /usr/src/app/data/
 
 # Changing to non-root user
 RUN useradd -m appUser
