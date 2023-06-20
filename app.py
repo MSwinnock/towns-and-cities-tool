@@ -223,8 +223,10 @@ server = app.server
 # Load travel to work datasets
 # project_path = "C:/Users/tobyh/Desktop/testing plotly/Dashboard_April_Demo"
 # metric_folder = "C:/Users/tobyh/Desktop/testing plotly/Dashboard_April_Demo/data"
-project_path = "usr/src/app/"
-metric_folder = "usr/src/app/data/"
+# project_path = "usr/src/app/"
+# metric_folder = "usr/src/app/data/"
+project_path = ""
+metric_folder = "data/"
 travel_to_work_metric_files = [
     "5_2023_Public transport or walk to employment centre with 500 to 4999 jobs.csv",
     "5_2023_Drive to employment centre with 500 to 4999 jobs.csv",
