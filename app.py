@@ -224,23 +224,23 @@ server = app.server
 # Load travel to work datasets
 # project_path = "C:/Users/tobyh/Desktop/testing plotly/Dashboard_April_Demo"
 # metric_folder = "C:/Users/tobyh/Desktop/testing plotly/Dashboard_April_Demo/data"
-project_path = ""
-metric_folder = "data"
+project_path = "usr/src/app/"
+metric_folder = "usr/src/app/data/"
 travel_to_work_metric_files = [
     "5_2023_Public transport or walk to employment centre with 500 to 4999 jobs.csv",
     "5_2023_Drive to employment centre with 500 to 4999 jobs.csv",
     "5_2023_Cycle to employment centre with 500 to 4999 jobs.csv",
 ]
 
-metadata = load_metadata(metadata_path=f"assets/metric_metadata.yaml")
+metadata = load_metadata(metadata_path=(f"{project_path}assets/metric_metadata.yaml"))
 
 df = load_travel_to_work_datasets(metric_folder, travel_to_work_metric_files)
-df_shapefile = load_shapefile(shapefile_path=f"data/lad_shapefile/LAD_DEC_2021_GB_BGC.shp")
+df_shapefile = load_shapefile(shapefile_path=f"{metric_folder}lad_shapefile/LAD_DEC_2021_GB_BGC.shp")
 df_copy = df_shapefile.copy(deep=True)
 
 # Add region column for filtering use
-df = add_regions(df, region_file_path=f"data/lad_to_region_2021_england.csv")
-df = add_coastal_information(df, coastal_file_path=f"data/coastal_lookup.csv")
+df = add_regions(df, region_file_path=f"{metric_folder}lad_to_region_2021_england.csv")
+df = add_coastal_information(df, coastal_file_path=f"{metric_folder}coastal_lookup.csv")
 unique_regions = df.loc[:, 'RGN21NM'].unique()
 unique_periods = sorted(df.loc[:, 'Period'].unique())
 
