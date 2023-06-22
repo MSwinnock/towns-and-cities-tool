@@ -213,8 +213,10 @@ def load_metadata(
     contact_details = loaded_config['contact_details']
     information = f"{loaded_config['description']}. The data is provided by {loaded_config['data_owner']}."
     geographies = f"These datasets use the following geography boundaries: {loaded_config['geographies']}."
+    data_source_link = loaded_config['data_url']
+    data_source_description = loaded_config['data_url_description']
 
-    return [contact_details, information, geographies]
+    return [contact_details, information, geographies, data_source_link, data_source_description]
 
 
 app = Dash(__name__)
@@ -288,7 +290,7 @@ timeseries_slider = dcc.Slider(
     step=None,
 )
 
-introduction_text = "This is an explanation of what the dashboard tool does."
+introduction_text = "Apply filters using the section on the left. Click highlighted areas on the right to view data."
 
 app.layout = html.Div(children=[
 
@@ -301,7 +303,7 @@ app.layout = html.Div(children=[
 
     html.Div([
         html.Img(src=app.get_asset_url('logo.png')),
-        html.H1(id="heading", children="Towns and Cities Selector Tool", className="title")],
+        html.H1(id="heading", children="Local Authorities Selector Tool", className="title")],
     className = "banner"),
 
     dcc.Tabs(id="tab-selector", children=[
@@ -342,7 +344,12 @@ app.layout = html.Div(children=[
                 html.Div(id="contact-details-div", children=metadata[0]),
                 html.H4("Important information", style={"padding-top": "20px"}),
                 html.Hr(),
-                html.Div(id="important-information-div", children=metadata[1]),
+                html.Div(id="important-information-div", children=[
+                    metadata[1],
+                    metadata[4],
+                    html.A(children="here", href=metadata[3]),
+                    "."
+                ]),
                 html.H4("Geography information", style={"padding-top": "20px"}),
                 html.Hr(),
                 html.Div(id="geography-information-div", children=metadata[2]),

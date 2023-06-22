@@ -2,3 +2,5 @@ contact_details: "Contact: subnational@ons.gov.uk\nCentre for Subnational Analys
 description: "This dashboard uses the transport to work datasets. These detail the average travel time in minutes to nearest employment centre with 500 to 4999 jobs available by car, public transport/walking and cycle"
 data_owner: "Department for Transport"
 geographies: "Local Authority Districts and Unitary Authorities, Metropolitan Counties, Counties, Regions, Nation (England)"
+data_url: "https://www.gov.uk/government/statistical-data-sets/journey-time-statistics-data-tables-jts"
+data_url_description: " The data used in this dashboard is available "
